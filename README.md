@@ -8,6 +8,7 @@
 
 <p>🔭 I’m currently working on a <a href="https://github.com/morgankj/jones-family-birthdays-front-end">personal project</a> - an application to organize family birthdays!</p>
 <p>📫 Email me at morgan.kjones95@gmail.com</p>
+<p>📺 I'm a huge film + video-game buff</p>
 
 <img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" alt="Girl in a jacket" height="400" align="middle">
 
