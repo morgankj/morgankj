@@ -6,6 +6,7 @@
 <br>I have a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments.
 <br>I thrive off of working with friends and peers to bring ideas to life!</p>
 
+🔭 I’m currently working on [a personal project to organize family birthdays!](https://github.com/morgankj/jones-family-birthdays-front-end)
 <p>📫 Email me at morgan.kjones95@gmail.com</p>
 
 <img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" alt="Girl in a jacket" height="400" align="middle">
