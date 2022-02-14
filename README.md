@@ -9,7 +9,7 @@
 <p>🔭 I’m currently working on a <a href="https://github.com/morgankj/jones-family-birthdays-front-end">personal project</a> - an application to organize family birthdays!</p>
 <p>📫 Email me at morgan.kjones95@gmail.com</p>
 
-<img src="https://drive.google.com/file/d/1wdTGZADUG3DkbSs3v6jdhwg33rmxRuVE/view?usp=sharing" alt="8 bit computer with bouncing disc" height="200">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="8 bit computer with bouncing disc" height="200">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
