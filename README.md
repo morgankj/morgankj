@@ -1,6 +1,7 @@
 <h1>👋 Hello! My name is Morgan Jones</h1>
 <h3>I am a full-stack web developer from Austin, TX.</h3>
 
+<h2>A bit about me:</h2>
 <p>Coming from a background in art and design, I have a passion for compelling and clean applications. 
 <br>I have a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments.
 <br>I thrive off of working with friends and peers to bring ideas to life, and always aim to deliver high quality products that users enjoy.</p>
