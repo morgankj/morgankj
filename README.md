@@ -1,5 +1,10 @@
 <h1>👋 Hello! My name is Morgan Jones</h1>
-<h3 align="center">A passionate frontend developer from Austin, TX!</h3>
+<h3>I am a passionate full-stack web developer from Austin, TX.</h3>
+<h3>Coming from a background in art and design, I have a passion for compelling and clean media. I aim to create applications and websites that dynamically pull in users and allow them to enjoy the full spectrum of what we have to offer with a seamless user experience.
+
+I am an efficient web developer with a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments. I am deadline driven, organized, and a committed team player with excellent communication skills (honed through practical experience).
+
+I thrive off of working with friends and peers to bring ideas to life, and deliver high quality products that users enjoy.</h3>
 
 - 📫 Email me at **morgan.kjones95@gmail.com**
 
