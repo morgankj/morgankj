@@ -4,7 +4,7 @@
 <h2>A bit about me:</h2>
 <p>Coming from a background in art and design, I have a passion for compelling and clean applications. 
 <br>I have a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments.
-<br>I thrive off of working with friends and peers to bring ideas to life, and always aim to deliver high quality products that users enjoy.</p>
+<br>I thrive off of working with friends and peers to bring ideas to life!</p>
 
 <img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" alt="Girl in a jacket" height="400" align="center">
 
