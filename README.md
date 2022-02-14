@@ -10,7 +10,7 @@
 <p>📫 Email me at morgan.kjones95@gmail.com</p>
 <p>📺 I'm a huge film + video-game buff</p>
 
-<img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" alt="Girl in a jacket" height="400" align="middle">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Girl in a jacket" height="200" width="600" align="middle">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
