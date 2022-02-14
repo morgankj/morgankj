@@ -5,7 +5,7 @@
 <p>I have a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments.</p>
 <p>I thrive off of working with friends and peers to bring ideas to life, and always aim to deliver high quality products that users enjoy.</p>
 
-<img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" alt="Girl in a jacket" height="400" align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
