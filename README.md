@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Morgan Jones</h1>
+# Morgan Jones
+### Hi there 👋
 <h3 align="center">A passionate frontend developer from Austin, TX!</h3>
 
 - 📫 How to reach me **morgan.kjones95@gmail.com**
