@@ -5,6 +5,8 @@
 <p>I have a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments.</p>
 <p>I thrive off of working with friends and peers to bring ideas to life, and deliver high quality products that users enjoy.</p>
 
+![image](https://user-images.githubusercontent.com/74324320/153952549-44d90180-00b0-4d50-a873-a960d616f68c.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/morgankjones95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/morgankjones95/" height="30" width="40" /></a>
