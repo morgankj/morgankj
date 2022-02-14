@@ -5,7 +5,7 @@
 <p>I have a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments.</p>
 <p>I thrive off of working with friends and peers to bring ideas to life, and deliver high quality products that users enjoy.</p>
 
-<img src="https://giphy.com/embed/cFdHXXm5GhJsc" width="480" height="377" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-cFdHXXm5GhJsc">via GIPHY</a></p>
+<gif src="https://giphy.com/embed/cFdHXXm5GhJsc" width="480" height="377" frameBorder="0" class="giphy-embed" allowFullScreen></gif><p><a href="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-cFdHXXm5GhJsc">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
