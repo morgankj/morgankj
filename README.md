@@ -6,12 +6,11 @@
 <br>I have a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments.
 <br>I thrive off of working with friends and peers to bring ideas to life!</p>
 
-<img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" alt="Girl in a jacket" height="400" align="center">
+<img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" alt="Girl in a jacket" height="400" text-align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/morgankjones95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/morgankjones95/" height="30" width="40" /></a>
-   
 <p>📫 Email me at morgan.kjones95@gmail.com</p>
 
 <h3 align="left">Languages and Tools:</h3>
