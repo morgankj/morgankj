@@ -1,16 +1,16 @@
 <h1>👋 Hello! My name is Morgan Jones</h1>
 <h3>I am a passionate full-stack web developer from Austin, TX.</h3>
-<h3>Coming from a background in art and design, I have a passion for compelling and clean media. I aim to create applications and websites that dynamically pull in users and allow them to enjoy the full spectrum of what we have to offer with a seamless user experience.
 
-I am an efficient web developer with a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments. I am deadline driven, organized, and a committed team player with excellent communication skills (honed through practical experience).
-
-I thrive off of working with friends and peers to bring ideas to life, and deliver high quality products that users enjoy.</h3>
-
-- 📫 Email me at **morgan.kjones95@gmail.com**
+<p>Coming from a background in art and design, I have a passion for compelling and clean media.</p> 
+<p>I aim to create applications and websites that dynamically pull in users and allow them to enjoy the full spectrum of what we have to offer with a seamless user experience.</p>
+<p>I have a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments.</p>
+<p>I am deadline driven, organized, and a committed team player with excellent communication skills (honed through practical experience).</p>
+<p>I thrive off of working with friends and peers to bring ideas to life, and deliver high quality products that users enjoy.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/morgankjones95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/morgankjones95/" height="30" width="40" /></a>
+- 📫 Email me at **morgan.kjones95@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
