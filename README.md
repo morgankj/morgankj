@@ -6,7 +6,7 @@
 <br>I have a Bachelors degree in Digital Entertainment Technology and 3 years of experience in challenging development environments.
 <br>I thrive off of working with friends and peers to bring ideas to life!</p>
 
-<p>🔭 I’m currently working on a <a href="https://github.com/morgankj/jones-family-birthdays-front-end">personal project</a> - an application to organize family birthdays!</p>
+<p>🔭 I’m currently working on a team project for a humanitarian organization called <a href="https://a.underdogdevs.dev/login">Underdog Devs</a> - that helps underprivleged individuals find jobs in tech!</p>
 <p>📫 Email me at morgan.kjones95@gmail.com</p>
 
 <img src="https://media.giphy.com/media/JH6UXxainwpoDm57Wz/giphy.gif" alt="8 bit computer with bouncing disc" height="200">
