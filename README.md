@@ -1,5 +1,5 @@
 <h1>👋 Hello! My name is <strong>Morgan Jones</strong></h1>          
-<h3>I am a full-stack web developer from Austin, TX.</h3>
+<h3>I am a full-stack web developer from Lago Vista, TX.</h3>
 
 <h2>A bit about me:</h2>
 <p>Coming from a background in 🎨 art and design, I have a passion for dynamic and clean applications. 
